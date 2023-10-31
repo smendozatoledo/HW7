@@ -1,5 +1,5 @@
 # nbdev-linear-regression-tutorial
-Behold, the nbdev tutorial for students of CSCI 435!
+Behold, the NBDEV Linear Regression Tutorial for students of CSCI 435!
 
 ### Requirements
 ___
@@ -35,3 +35,5 @@ ___
 - https://nbdev.fast.ai/tutorials/tutorial.html
 - https://jmp75.github.io/work-blog/posts/20221007-nbdev-windows/
    - npdev isn't actually designed for Windows but this madlad somehow made it work anyways
+
+P.S. I wrote this entire tutorial in one night. 
