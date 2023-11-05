@@ -42,11 +42,12 @@ Behold, the NBDEV Linear Regression Tutorial for students of CSCI 435!
     save your PDF
 8.  Run `nbdev_install_hooks`
 9.  Push your changes to your Github
-10. Go to your Github Settings, click `Deploy from a branch`, and select
+10. Run `nbdev_preview` and make sure it looks right
+11. Go to your Github Settings, click `Deploy from a branch`, and select
     `gh-pages`.
-11. Return to Github Code, click the gear on About, and set the website
+12. Return to Github Code, click the gear on About, and set the website
     to Github Pages
-12. Send the PDF and your Github Pages website to Alejandro and CC
+13. Send the PDF and your Github Pages website to Alejandro and CC
     Prof. Poshyvanyk!
 
 ### Resources Utilized
