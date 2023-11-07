@@ -34,7 +34,7 @@ Behold, the NBDEV Linear Regression Tutorial for students of CSCI 435!
 2.  Go to the terminal and make sure you’re in your repo’s directory
 3.  Run `nbdev_new` to generate necessary files
 4.  Replace `nbs/00_core.ipynb` and `nbs/index.ipynb` with the ones in
-    this repository
+    this repository, and add `shampoo.csv` into the `nbs` folder
 5.  Run `nbdev_readme` to generate a README.md that should look like
     this one
 6.  Run `jupyter lab` in the repository
